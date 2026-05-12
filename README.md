@@ -6,7 +6,7 @@
 
 I build secure cloud platforms, automate boring things, hack on weird ideas, and make tools that actually save time.
 
-[![Website](https://img.shields.io/badge/Website-kautomates.pythonanywhere.com-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kautomates.pythonanywhere.com)
+[![Website](https://img.shields.io/badge/Website-kautomate.pythonanywhere.com-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kautomates.pythonanywhere.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KiranChilledOut-181717?style=for-the-badge&logo=github)](https://github.com/KiranChilledOut)
 [![SillyJoint](https://img.shields.io/badge/Project-SillyJoint-5eead4?style=for-the-badge&logo=python&logoColor=111827)](https://sillyjoint.com)
 
