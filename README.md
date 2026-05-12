@@ -6,7 +6,7 @@
 
 I build secure cloud platforms, automate boring things, hack on weird ideas, and make tools that actually save time.
 
-[![Website](https://img.shields.io/badge/Website-kautomate.pythonanywhere.com-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kautomates.pythonanywhere.com)
+[![Website](https://img.shields.io/badge/Website-kautomates.pythonanywhere.com-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kautomates.pythonanywhere.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KiranChilledOut-181717?style=for-the-badge&logo=github)](https://github.com/KiranChilledOut)
 [![SillyJoint](https://img.shields.io/badge/Project-SillyJoint-5eead4?style=for-the-badge&logo=python&logoColor=111827)](https://sillyjoint.com)
 
@@ -24,11 +24,15 @@ focus:
   - Zero Trust Architecture
   - Azure DevOps
   - Terraform Infrastructure as Code
+  - Azure IoT
   - Self-service cloud platforms
   - Platform automation
   - AI platform infrastructure
+  - AI agents
+  - Physical AI
 fun_mode:
   - DIY hacks
+  - ESP32 experiments
   - Guitar
   - Open source
   - Breaking things to understand them
@@ -42,7 +46,9 @@ fun_mode:
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Azure IoT](https://img.shields.io/badge/Azure%20IoT-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,6 +56,7 @@ fun_mode:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div>
 
@@ -89,7 +96,10 @@ It translates Claude-style requests into OpenAI-compatible calls, supports strea
 ```text
 Terraform modules        █████████░
 Azure landing zones      █████████░
+Azure DevOps             █████████░
 CI/CD pipelines          █████████░
+Django                   ████████░░
+Azure IoT                ████████░░
 Private networking       ████████░░
 Managed identities       ████████░░
 Policy as code           ████████░░
@@ -99,15 +109,44 @@ PowerShell wizardry      █████████░
 
 ---
 
+## 🤖 Fun things I am exploring
+
+```text
+AI agents                █████████░
+Physical AI              ████████░░
+ESP32 builds             ████████░░
+DIY automation           █████████░
+IoT experiments          ████████░░
+Local tools              █████████░
+Terminal workflows       █████████░
+```
+
+---
+
+## 📚 Books that shaped how I think
+
+- The Pragmatic Programmer
+- CODE: The Hidden Language of Computer Hardware and Software
+
+---
+
+## 🧭 Principles I like
+
+- Clean Code
+- DRY: Don't Repeat Yourself
+- KISS: Keep It Simple, Stupid
+- Build simple tools that solve real problems
+- Automate boring work
+- Make systems understandable
+- Ship, learn, improve
+
+---
+
 ## 📊 GitHub dashboard
 
 <div align="center">
 
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiranChilledOut&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranChilledOut&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KiranChilledOut&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=KiranChilledOut&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -117,7 +156,8 @@ PowerShell wizardry      █████████░
 
 - I like tools that feel simple but solve annoying real problems
 - I enjoy DIY hardware and software hacks
-- I like AI infra, local automation, terminals, tunnels, and weird side projects
+- I like AI infra, AI agents, local automation, terminals, tunnels, and weird side projects
+- I like ESP32, Azure IoT, and connecting software with the physical world
 - Guitar keeps me sane
 - Solving problems makes me happy
 
