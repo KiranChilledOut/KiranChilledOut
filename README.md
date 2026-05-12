@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Kiran 👋
+# Hi, I'm Kiran 🤝
 
 ### DevOps Platform Engineer · Azure DevOps · Terraform · Zero Trust · AI Infra
 
