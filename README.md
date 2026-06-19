@@ -1,63 +1,69 @@
 <div align="center">
 
-# Hi, I'm Kiran 🤝
+# Hi, I'm Kiran 👋
 
-### DevOps Platform Engineer · Azure DevOps · Terraform · Zero Trust · AI Infra
+### Platform Engineer • DevOps • AI Infrastructure • Builder
 
-I build secure cloud platforms, automate boring things, hack on weird ideas, and make tools that actually save time.
+I build cloud platforms, AI tooling, automation systems, and occasionally strange projects that solve surprisingly real problems.
 
 [![Website](https://img.shields.io/badge/Website-kautomate.pythonanywhere.com-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kautomate.pythonanywhere.com/blog/index/)
 [![GitHub](https://img.shields.io/badge/GitHub-KiranChilledOut-181717?style=for-the-badge&logo=github)](https://github.com/KiranChilledOut)
-[![SillyJoint](https://img.shields.io/badge/Project-SillyJoint-5eead4?style=for-the-badge&logo=python&logoColor=111827)](https://www.sillyjoint.com)
 
 </div>
 
 ---
 
-## 🧠 What I do
+## 🧠 About Me
 
 ```yaml
 name: Kiran Raj Rajendran
-role: DevOps Platform Engineer
-location: Lelystad, Netherlands
+role: Platform Engineer
 focus:
-  - Zero Trust Architecture
-  - Azure DevOps
-  - Terraform Infrastructure as Code
+  - DevOps & Platform Engineering
+  - Azure & Cloud Infrastructure
+  - Infrastructure as Code
+  - AI Infrastructure
+  - AI Agents & Developer Tooling
   - Observability
-  - Azure IoT
-  - Self-service cloud platforms
-  - Platform automation
-  - AI platform infrastructure
-  - AI agents
-  - Physical AI
-fun_mode:
-  - DIY hacks
-  - ESP32 experiments
+  - Zero Trust & Secure Platforms
+  - Physical AI & Embedded Systems
+  - Automation at Scale
+
+currently_building:
+  - Claude-Codex-Nebius Proxy
+  - AI Developer Tooling
+  - Physical AI Experiments
+  - Local-first Productivity Tools
+
+interests:
+  - ESP32 & Embedded Systems
+  - Raspberry Pi Projects
+  - DIY Automation
+  - Open Source
   - Guitar
-  - Open source
-  - Breaking things to understand them
+  - Learning by Building
 ```
 
 ---
 
-## ⚡ Tech I like working with
+## ⚡ Tech Stack
 
 <div align="center">
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=django&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Azure IoT](https://img.shields.io/badge/Azure%20IoT-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=teamcity&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
@@ -65,87 +71,102 @@ fun_mode:
 
 ---
 
-## 🚀 Featured builds
+## 🚀 Featured Projects
 
-### 🟢 SillyJoint
+### 🟣 Claude-Codex-Nebius Proxy
 
-A security-first CLI that joins two computers around a single tmux-backed coding-agent session.
+A unified proxy that enables Claude Code and Codex to run against Nebius-hosted models through OpenAI-compatible APIs.
 
-Start Claude Code, Codex, aider, or any terminal agent on one machine, then attach from another over SSH on your Tailscale network.
+Features include:
 
-No public relay.  
-No cloud.  
-No daemons.  
-No stored passwords.
+- Claude to OpenAI API translation
+- Codex Responses API support
+- Streaming responses
+- Tool calling
+- Model routing
+- Vision support
+- Web search integration
+- Local observability dashboard
 
-[![Repo](https://img.shields.io/badge/Repo-sillyjointtunnel-181717?style=for-the-badge&logo=github)](https://github.com/KiranChilledOut/sillyjointtunnel)
-[![PyPI](https://img.shields.io/badge/PyPI-sillyjoint-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/sillyjoint/)
-[![Site](https://img.shields.io/badge/Site-sillyjoint.com-5eead4?style=for-the-badge)](https://sillyjoint.com)
-
----
-
-### 🟣 Claude Code Proxy for Nebius
-
-A Claude-compatible API proxy that lets Claude Code talk to Nebius-hosted open models.
-
-It translates Claude-style requests into OpenAI-compatible calls, supports streaming, tool-use fixes, image-aware routing, token tracking, and a local dashboard.
-
-[![Repo](https://img.shields.io/badge/Repo-claude--code--proxy-181717?style=for-the-badge&logo=github)](https://github.com/KiranChilledOut/claude-code-proxy)
+[![Repo](https://img.shields.io/badge/Repo-Claude--Codex--Nebius--Proxy-181717?style=for-the-badge&logo=github)](https://github.com/KiranChilledOut/claude-codex-nebius-proxy)
 
 ---
 
-## 🛠️ Platform engineering mode
+### 🛠️ AI Infrastructure & Developer Tooling
+
+I enjoy building tools that make developers more productive:
+
+- Agent infrastructure
+- AI-powered workflows
+- Local-first tooling
+- Terminal-based productivity tools
+- Automation platforms
+- Self-service engineering systems
+
+---
+
+### 🔬 In Progress
+
+- SillyJoint, closed-source AI collaboration tooling
+- Physical AI experiments
+- AI-powered automation systems
+- Embedded AI on ESP32 and edge devices
+- Platform engineering accelerators
+
+---
+
+## 🛠️ What I Spend Most Of My Time Doing
 
 ```text
-Terraform modules        █████████░
-Azure landing zones      █████████░
-Azure DevOps             █████████░
-CI/CD pipelines          █████████░
-Django                   ████████░░
-Azure IoT                ████████░░
-Private networking       ████████░░
-Managed identities       ████████░░
-Policy as code           ████████░░
-Python automation        ████████░░
-PowerShell wizardry      █████████░
+Platform Engineering     ██████████
+Cloud Infrastructure     ██████████
+Automation               ██████████
+Terraform                █████████░
+AI Infrastructure        █████████░
+Python                   █████████░
+Kubernetes               ████████░░
+Embedded Systems         ████████░░
+Developer Tooling        █████████░
+Observability            ████████░░
 ```
 
 ---
 
-## 🤖 Fun things I am exploring
+## 🤖 Things I Am Exploring
 
 ```text
-AI agents                █████████░
+AI Agents                █████████░
 Physical AI              ████████░░
-ESP32 builds             ████████░░
-DIY automation           █████████░
-IoT experiments          ████████░░
-Local tools              █████████░
-Terminal workflows       █████████░
+ESP32 Builds             ████████░░
+DIY Automation           █████████░
+IoT Experiments          ████████░░
+Local Tools              █████████░
+Terminal Workflows       █████████░
+Edge AI                  ████████░░
 ```
 
 ---
 
-## 📚 Books that shaped how I think
+## 📚 A Few Things That Shaped My Thinking
 
 - The Pragmatic Programmer
 - CODE: The Hidden Language of Computer Hardware and Software
 
 ---
 
-## 🧭 Principles I like
+## 🧭 Principles
 
-- Clean Code
-- DRY: Don't Repeat Yourself
-- KISS: Keep It Simple, Stupid
-- Build simple tools that solve real problems
-- Automate boring work
-- Make systems understandable
-- Ship, learn, improve
+- Automate repetitive work
+- Build simple systems first
+- Understand before optimizing
+- Security should be built in, not bolted on
+- Learn by building
+- Ship early, improve continuously
+- Keep tools useful, understandable, and boring where it matters
 
 ---
 
-## 📊 GitHub dashboard
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -155,22 +176,22 @@ Terminal workflows       █████████░
 
 ---
 
-## 🧩 Random things about me
+## 🎸 Outside Work
 
-- I like tools that feel simple but solve annoying real problems
-- I enjoy DIY hardware and software hacks
-- I like AI infra, AI agents, local automation, terminals, tunnels, and weird side projects
-- I like ESP32, Azure IoT, and connecting software with the physical world
-- Guitar keeps me sane
-- Solving problems makes me happy
+- Building weird side projects
+- Embedded hardware experiments
+- AI and agent systems
+- DIY automation
+- Guitar
+- Breaking things to understand how they work
 
 ---
 
 <div align="center">
 
-### Current mission
+### Current Mission
 
-Build useful tools. Automate the boring parts. Keep learning. Ship more.
+Build useful things. Learn continuously. Share what works.
 
 ![Profile views](https://komarev.com/ghpvc/?username=KiranChilledOut&style=for-the-badge&color=5eead4)
 
